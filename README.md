@@ -5,7 +5,7 @@ What you'll need:
 - [Windows 10 ISO](https://www.microsoft.com/en-us/software-download/windows10ISO)
 - Powershell Script
 
-![image](https://github.com/Tala1122/ActiveDirectory/main/image)
+![image](https://github.com/Tala1122/ActiveDirectory/blob/main/image)
 **Download Materials**\
 First you will need to download the ISO images for the server and the client computer as well as download Virtual Box. 
 
